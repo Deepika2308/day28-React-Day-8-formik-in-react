@@ -1,0 +1,33 @@
+.card{
+    width:16em;
+    /* max-height:37em;   */
+    padding-bottom:0;
+    z-index:1;
+}
+
+.card img{
+    height:10em;
+    object-fit: cover;
+}
+
+.container{
+    row-gap: 1em;
+}
+
+.nav-link{
+    font-size:18px;
+}
+
+.desc-button{
+    margin-top:-2px;
+    color:grey;
+}
+
+.desc-button:hover{
+    color:black;
+}
+
+.create-product-form{
+    width:40em;
+    margin:auto;
+}
